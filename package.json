@@ -1,0 +1,33 @@
+{
+  "name": "b-thuong-onni",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thuyendangdinh/b-thuong-onni.git"
+  },
+  "keywords": [
+    "b-thuong-onni",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "thuyendangdinh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuyendangdinh/b-thuong-onni/issues"
+  },
+  "homepage": "https://github.com/thuyendangdinh/b-thuong-onni#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "a-thuyen-onni": "1.0.0"
+
+  }
+}
